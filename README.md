@@ -1,2 +1,4 @@
-# PCD_Equipo2026
-Repositorio para las prácticas y proyecto de PCD.
+## PCD_Equipo2026
+Integrantes: Cruz González Erick Miguel y Escamilla Camarillo Ricardo.
+Tema: Reservaciones
+
